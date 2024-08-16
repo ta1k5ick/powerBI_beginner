@@ -2,9 +2,7 @@
 ![image](https://github.com/ta1k5ick/powerBI_beginner/assets/116907161/720750ca-6601-43ab-a9ab-2df14d5c44b2)
 
 Building blocks of Power BI
-Completed
-100 XP
-8 minutes
+
 The building blocks of Power BI are semantic models and visualizations. Create a semantic model and then use visuals to build a report. Let's explore these items in more detail and how they relate to the flow of Power BI.
 
 Create a semantic model
